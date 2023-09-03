@@ -55,9 +55,6 @@ This application is deployed on DigitalOcean. Please check it out :smile: [here]
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-**Deployed On:**
-
-[![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://bitchat.rohittewari.live)
 
 ## ⚡️ Features
 
