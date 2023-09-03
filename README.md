@@ -162,13 +162,12 @@ npm run server
 
 ## 👤 Developer
 
-[Rohit Tewari](https://github.com/rtewari056)
+[Saurabh Prajapati](https://github.com/developersaurabhmern/)
 
 ## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
-<a href="https://linkedin.com/in/rtewari056" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rtewari056@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/rtewari056" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/saurabh-prajapati-85a164167/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sp27243@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
